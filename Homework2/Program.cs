@@ -48,6 +48,7 @@ else
 
 //Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
+/*
 bool isWeekend(int day)
 {
     if(day == 6 || day == 7)
@@ -64,3 +65,4 @@ if(chill)
     Console.WriteLine("It's weekend! You can chill");
 else
     Console.WriteLine("Unfortunately it is not weekend");
+*/
