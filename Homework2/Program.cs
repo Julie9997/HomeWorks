@@ -57,7 +57,7 @@ bool isWeekend(int day)
         return false;
 }
 
-Console.Write("Enter the day numbe: ");
+Console.Write("Enter the day number: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
 bool chill = isWeekend(day);
