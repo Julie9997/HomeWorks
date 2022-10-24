@@ -22,9 +22,9 @@ Console.Write("Enter a number: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
 if(is_palindrome(number))
-    Console.WriteLine($"{number} is a polindrome");
+    Console.WriteLine($"{number} is a palindrome");
 else
-    Console.WriteLine($"{number} is not a polindrome");
+    Console.WriteLine($"{number} is not a palindrome");
 */
 
 
