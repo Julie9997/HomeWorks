@@ -257,7 +257,7 @@ void Show3dArray(int[,,] array)
 }
 
 
-Console.WriteLine("Create the first matrix: ");
+Console.WriteLine("Create the array: ");
 Console.Write("Input x: ");
 int x = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input y: ");
